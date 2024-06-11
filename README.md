@@ -1,2 +1,2 @@
 # Ibb-Project
-Hocam projemin yarısını yapmışken XAMPP mysql tarafı açılmadı hata verdi dosyalardan düzeltirken php kodlarını çalıştırmamaya başladı ve silmek zorunda kaldım yeniden yaptım ama yetişmedi kusura bakmayın yaptığım kadarnı atıyorum
+Hocam projemin yarısını yapmışken XAMPP mysql tarafı açılmadı hata verdi internette dosyaları değiştir felan derken iyice bozuldu ve yaptığım her şey çöp oldu php kodlarını çalıştırmamaya başladı ve silmek zorunda kaldım yeniden yaptım ama yetişmedi kusura bakmayın yaptığım kadarnı atıyorum sadece login page ve admin list ve dashboard larını yaptım student page i yapamadım ama student logini de var yarım kaldığı için ve yurtta olduğum için videoyu yükleyemedim tekrar affınıza sığınıyorum iyi günler.
